@@ -5,7 +5,7 @@ Mining stake calculation: 100 cubes smashed = 1 mining stake.
 
 Link to play the game: [cubesmasher](https://cubesmasher.xyz/). 
 
-![cubesmasher screenshot](https://cubesmasher.xyz/cubesmasher.png)
+![cubesmasher screenshot](https://cubesmasher.xyz/images/cubesmasher.png)
 
 ## Contract
 
